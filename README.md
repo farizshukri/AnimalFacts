@@ -15,3 +15,9 @@ The Random Animal Facts app is designed to provide users with interesting and ed
 3. **Favorite Facts:** Users can mark their favorite facts and save them for later reference. This feature allows users to collect and revisit their preferred animal trivia easily.
 
 4. **Share:** Users can share interesting facts with friends and family through social media platforms or messaging apps. This encourages engagement and spreads knowledge about animals.
+
+### Benefits
+
+- **Educational:** The app promotes learning about animals in an engaging and entertaining manner.
+- **User Engagement:** Interactive features like random facts and favorites encourage users to explore and interact with the app regularly.
+- **Social Sharing:** Users can share newfound knowledge with others, fostering community interaction and spreading awareness about wildlife conservation.
