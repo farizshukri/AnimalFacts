@@ -21,3 +21,9 @@ The Random Animal Facts app is designed to provide users with interesting and ed
 - **Educational:** The app promotes learning about animals in an engaging and entertaining manner.
 - **User Engagement:** Interactive features like random facts and favorites encourage users to explore and interact with the app regularly.
 - **Social Sharing:** Users can share newfound knowledge with others, fostering community interaction and spreading awareness about wildlife conservation.
+
+### Future Enhancements
+
+- **Quiz Feature:** Adding a quiz component where users can test their knowledge about animal facts.
+- **Multi-language Support:** Introducing support for multiple languages to reach a broader audience.
+- **User Accounts:** Allowing users to create accounts to personalize their experience and save preferences.
